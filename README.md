@@ -33,3 +33,5 @@ The system comprises two main components: `NewsAgency` and `Subscriber`.
 * Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
   # Class Diagram
+  <img width="900" alt="image" src="https://github.com/aeroldtorregoza/observerPattern/assets/143488240/9ed4513c-25c8-4037-9c3d-e7a24861fbd3">
+
